@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Tic-Tac-Toe",
+  "description": "A real-time, 1v1 Tic-Tac-Toe game with a PIN-based login, a player lobby, and in-game chat. Challenge other online players, play the classic game, and request a rematch when you're done.",
+  "requestFramePermissions": []
+}
